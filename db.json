@@ -1,5 +1,5 @@
 {
-    "posts":[
+    "dress":[
         {
             "id": 1,
             "name": "The Marais Chiffon Maxi Dress: Shine Edition",
@@ -107,7 +107,7 @@
         }
         
     ],
-    "comments": [
+    "shoes": [
         {
             "id":1,
             "name":"Esska Charlie Heels",
@@ -198,8 +198,6 @@
             "price":150,
             "image":"https://images.urbndata.com/is/image/Anthropologie/68841204_081_b?$an-category$&fit=constrain&fmt=webp&hei=523&qlt=80&wid=349" 
         }
-    ],
-    "profile": {
-        "name": "typicode"
-      }
+    ]
+    
 }

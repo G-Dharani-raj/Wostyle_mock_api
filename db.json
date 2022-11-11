@@ -579,11 +579,11 @@
     ],
     "user": [
         {
-          "name": "chetan",
-          "email": "jsonser@gmail.com",
-          "password": "TOfn@8434"
+        "id": "jsonser@gmail.com",
+        "name": "Chetan",
+        "password": "TOfn@8434"
         }
-      ]
+    ]
 
     
 }
